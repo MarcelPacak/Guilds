@@ -1,0 +1,11 @@
+name: Guilds
+main: pl.m2p13cak7.Guilds.Main
+author: m2p13cak7
+version: 1.0
+api-version: 1.20
+
+commands:
+  guild:
+    usage: "Check the server's documentation for the correct usage of this command."
+    aliases:
+      - "g"
