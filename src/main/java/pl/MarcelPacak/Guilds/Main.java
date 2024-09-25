@@ -1,4 +1,4 @@
-package pl.m2p13cak7.Guilds;
+package pl.MarcelPacak.Guilds;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
@@ -6,7 +6,7 @@ import org.bukkit.command.PluginCommand;
 import org.bukkit.configuration.ConfigurationSection;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
-import pl.m2p13cak7.Guilds.util.Guild;
+import pl.MarcelPacak.Guilds.util.Guild;
 
 public class Main extends JavaPlugin {
     @Override

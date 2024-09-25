@@ -1,4 +1,4 @@
-package pl.m2p13cak7.Guilds.util;
+package pl.MarcelPacak.Guilds.util;
 
 import org.bukkit.scheduler.BukkitRunnable;
 

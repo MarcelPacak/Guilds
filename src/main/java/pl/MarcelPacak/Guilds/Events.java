@@ -1,4 +1,4 @@
-package pl.m2p13cak7.Guilds;
+package pl.MarcelPacak.Guilds;
 
 import org.bukkit.*;
 import org.bukkit.block.Block;
@@ -11,7 +11,7 @@ import org.bukkit.event.block.*;
 import org.bukkit.event.entity.*;
 import org.bukkit.event.player.*;
 import org.bukkit.event.world.*;
-import pl.m2p13cak7.Guilds.util.Guild;
+import pl.MarcelPacak.Guilds.util.Guild;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package pl.m2p13cak7.Guilds.util;
+package pl.MarcelPacak.Guilds.util;
 
 import org.bukkit.*;
 import org.bukkit.block.Block;
@@ -15,7 +15,6 @@ import org.bukkit.util.BoundingBox;
 import org.bukkit.util.Vector;
 import org.checkerframework.checker.nullness.qual.NonNull;
 import org.checkerframework.checker.nullness.qual.Nullable;
-import org.checkerframework.checker.units.qual.N;
 
 import java.util.*;
 

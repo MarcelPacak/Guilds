@@ -1,4 +1,4 @@
-package pl.m2p13cak7.Guilds;
+package pl.MarcelPacak.Guilds;
 
 import org.bukkit.*;
 import org.bukkit.block.Block;
@@ -7,8 +7,8 @@ import org.bukkit.command.*;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;
 import org.checkerframework.checker.nullness.qual.NonNull;
-import pl.m2p13cak7.Guilds.util.Guild;
-import pl.m2p13cak7.Guilds.util.Invitations;
+import pl.MarcelPacak.Guilds.util.Guild;
+import pl.MarcelPacak.Guilds.util.Invitations;
 
 import java.util.*;
 
